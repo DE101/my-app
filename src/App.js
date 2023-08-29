@@ -5,7 +5,11 @@ import Signup from './Sign up';
 
 function App() {
   return (
-    <Signup></Signup>
+    <div>
+      <h1>Hello World</h1>
+      <Signup></Signup>
+    </div>
+    
   )
 }
 
